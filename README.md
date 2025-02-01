@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/dragogalaxy03/DSA_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/dragogalaxy03/DSA_Java/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/dragogalaxy03/DSA_Java/tree/master/0056-merge-intervals) |
 ## Sorting
@@ -13,5 +14,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/dragogalaxy03/DSA_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/dragogalaxy03/DSA_Java/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
