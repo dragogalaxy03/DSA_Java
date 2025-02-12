@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dragogalaxy03/DSA_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dragogalaxy03/DSA_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dragogalaxy03/DSA_Java/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/dragogalaxy03/DSA_Java/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/dragogalaxy03/DSA_Java/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dragogalaxy03/DSA_Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dragogalaxy03/DSA_Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dragogalaxy03/DSA_Java/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dragogalaxy03/DSA_Java/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/dragogalaxy03/DSA_Java/tree/master/1646-kth-missing-positive-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dragogalaxy03/DSA_Java/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dragogalaxy03/DSA_Java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
