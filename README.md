@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dragogalaxy03/DSA_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dragogalaxy03/DSA_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dragogalaxy03/DSA_Java/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/dragogalaxy03/DSA_Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dragogalaxy03/DSA_Java/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/dragogalaxy03/DSA_Java/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dragogalaxy03/DSA_Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -49,5 +50,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dragogalaxy03/DSA_Java/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/dragogalaxy03/DSA_Java/tree/master/0118-pascals-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dragogalaxy03/DSA_Java/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
