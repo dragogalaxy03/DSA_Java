@@ -1,7 +1,7 @@
 class Solution {
     public int findMin(int[] nums) {
         int n = nums.length;
-       int ans=Integer.MAX_VALUE;
+        int ans=Integer.MAX_VALUE;
         int low=0;
         int high =n-1;
         while(low<=high){
